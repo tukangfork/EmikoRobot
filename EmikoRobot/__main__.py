@@ -82,8 +82,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hello {} !*
-✪ I'm Reyzu Robot management bot [✨]
+*Welcome {} !*
+✪ I can help manage your group [✨]
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
