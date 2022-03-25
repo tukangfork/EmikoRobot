@@ -103,7 +103,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="⇩⇩⇩ About Music Bot Reyzu ⇩⇩⇩", url=f"none"),
+            text="➗ Reyzu Musicbot ➗", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
