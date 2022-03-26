@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Welcome {} !*
+*Hi {} !*
 ✪ I can help manage your group [✨]
 
 × *Uptime:* `{}`
@@ -103,7 +103,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Reyzu Musicbot ➗", url=f"t.me/{bu}?startgroup=new"),
+            text="➗ Add Reyzu To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
