@@ -28,6 +28,7 @@ c stands for channel play.
 ❂ /restart - Restart bot for your chat .
 
 • Auth User
+
 ❂ /auth [Username] - Add a user to AUTH LIST of the group.
 ❂ /unauth [Username] - Remove a user from AUTH LIST of the group.
 ❂ /authusers - Check AUTH LIST of the group.
