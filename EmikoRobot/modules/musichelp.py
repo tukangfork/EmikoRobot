@@ -17,7 +17,7 @@ force stands for force play.
 
 • Admins only
 c stands for channel play.
-
+❂ /Settings - set menu, auth or lang
 ❂ /pause or /cpause - Pause the playing music.
 ❂ /resume or /cresume- Resume the paused music.
 ❂ /mute or /cmute- Mute the playing music
