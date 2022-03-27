@@ -93,7 +93,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Reyzu Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -368,7 +368,7 @@ def emiko_about_callback(update, context):
             "\n• I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc."
             "\n• I have a note keeping system, blacklists, and even predetermined replies on certain keywords."
             "\n• I check for admins' permissions before executing any command and more stuffs"
-            "\n\n_Emiko's licensed under the GNU General Public License v3.0_"
+            "\n\n_Reyzu's licensed under the GNU General Public License v3.0_"
             "\n\nClick on button bellow to get basic help.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
