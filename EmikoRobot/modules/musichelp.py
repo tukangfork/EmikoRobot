@@ -32,5 +32,4 @@ c stands for channel play.
 ❂ /unauth [Username] - Remove a user from AUTH LIST of the group.
 ❂ /authusers - Check AUTH LIST of the group.
 
-NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 """
